@@ -2,7 +2,7 @@
 
 ###### Version 0.1 Beta | Released on 27th February, 2019
 
-Test Drive it at [uc.tanmoysg.com](http://uc.tanmnoysg.com)
+Test Drive it at [uc.tanmoysg.com](http://uc.tanmoysg.com)
 
 
 Catch up with your Links via all your Devices using UniversalCopier!
